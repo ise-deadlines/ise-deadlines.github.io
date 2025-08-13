@@ -9,10 +9,10 @@
   date: May 19 - May 23, 2025
   start: 2025-05-19
   end: 2025-05-23
-  sub: []
+  sub: [BC]
   note: Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>.
 
-- name: ICDCS
+- title: ICDCS
   year: 2026
   id: icdcs2026
   date: July 21 - July-25
