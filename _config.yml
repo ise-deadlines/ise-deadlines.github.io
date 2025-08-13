@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: ISE Conference Deadlines
+description: Countdowns to ISE Deadlines
+author: Tarek Galal
 
-domain: "aideadlin.es"
+domain: "ise-deadlines.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: ise
+github_username: ise-deadlines
+github_repo: ise-deadlines.github.io
 
 markdown: kramdown
 ga_id:
