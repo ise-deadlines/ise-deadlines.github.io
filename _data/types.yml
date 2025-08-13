@@ -1,31 +1,31 @@
 ---
-- name: Machine Learning
-  sub: ML
+- name: Workshop
+  sub: WS
   color: "#ffd300"
-- name: Computer Vision
-  sub: CV
+- name: Blockchain
+  sub: BC
   color: "#deff0a"
-- name: Computer Graphics
-  sub: CG
+- name: Cloud
+  sub: CLOUD
   color: "#0aefff"
-- name: Natural Language Proc
-  sub: NLP
+- name: Data Management
+  sub: DATA
   color: "#147df5"
-- name: Robotics
-  sub: RO
+- name: Distributed Systems
+  sub: DSYS
   color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
+- name: Middleware
+  sub: MIDDLE
   color: "#580aff"
-- name: Data Mining
-  sub: DM
+- name: Security
+  sub: SEC
   color: "#be0aff"
-- name: Automated Planning
-  sub: AP
+- name: Software Architecture
+  sub: SA
   color: "#a432a8"
-- name: Knowledge Representation
-  sub: KR
+- name: Software Engineering
+  sub: SE
   color: "#32a855"
-- name: Human-Computer Interaction
-  sub: HCI
+- name: A Rank
+  sub: A
   color: "#a83232"
