@@ -26,6 +26,15 @@
 - name: Software Engineering
   sub: SE
   color: "#32a855"
+- name: A* Rank
+  sub: A*
+  color: "#a83232
 - name: A Rank
   sub: A
+  color: "#a83232"
+- name: B Rank
+  sub: B
+  color: "#a83232"
+- name: C Rank
+  sub: C
   color: "#a83232"
