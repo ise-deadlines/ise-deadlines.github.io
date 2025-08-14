@@ -40,4 +40,16 @@
   note: Abstract deadline on November 14, 2025
   place: Verona, Italy
   sub: [A, SA]
+- title: ICBC
+  year: 2026
+  id: icbc26
+  date: June 01 - June 05
+  start: 2026-06-01
+  end: 2026-06-05
+  full_name: IEEE International Conference on Blockchain and Cryptocurrency
+  link: 'https://icbc2026.ieee-icbc.org'
+  deadline: '2026-01-07 23:59:59'
+  timezone: UTC-12
+  place: Brisbane, Australia
+  sub: [BC, DSYS, C]
 
