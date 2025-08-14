@@ -27,8 +27,8 @@
   sub: SE
   color: "#32a855"
 - name: A* Rank
-  sub: A_*
-  color: "#a83232
+  sub: A*
+  color: "#a83232"
 - name: A Rank
   sub: A
   color: "#a83232"
