@@ -52,4 +52,16 @@
   timezone: UTC-12
   place: Brisbane, Australia
   sub: [BC, DSYS, C]
+- title: FC
+  year: 2026
+  id: fc2026
+  date: March 02 - March 06
+  start: 2026-03-02
+  end: 2026-03-06
+  full_name: Financial Cryptography and Data Security
+  link: 'https://fc26.ifca.ai/'
+  deadline: '2026-09-16 23:59:59'
+  timezone: UTC-12
+  place: St. Kitts
+  sub: [BC, SEC, A]
 
