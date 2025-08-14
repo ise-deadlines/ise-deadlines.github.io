@@ -26,3 +26,18 @@
   note: Abstract deadline on November 28, 2025
   place: Amsterdam, Netherlands
   sub: [A, SA]
+- title: CAiSE
+  year: 2026
+  id: caise26
+  date: June 08 - June 12
+  start: 2026-06-08
+  end: 2026-06-12
+  full_name: International Conference on Advanced Information Systems Engineering
+  link: 'https://caise26.polimi.it/?page_id=60'
+  deadline: '2025-11-28 23:59:59'
+  abstract_deadline: '2025-11-14 23:59:59'
+  timezone: UTC-12
+  note: Abstract deadline on November 14, 2025
+  place: Verona, Italy
+  sub: [A, SA]
+
